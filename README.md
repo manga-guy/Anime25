@@ -26,7 +26,7 @@ I used Python (Pandas & Requests) as well as the Jikan REST API v4 for MyAnimeLi
 
 **Trend Observation**: We can observe the average viewer count growing pretty steadily over the 25-year period. This is likely due to the growth in the popularity of anime as well as the increased availability of anime on streaming services.
 
-**Average Viewer Count**: Average viewer count across each season’s top 25 is 363,387.
+**Average Viewer Count**: Average viewer count across each season’s top 20 is 363,387.
 
 **Overall Thoughts**
 
