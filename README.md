@@ -1,3 +1,5 @@
+![MG Research LOGO](https://github.com/manga-guy/Anime25/assets/68157143/9a4a3241-2589-4bae-a400-69788c420b69)
+
 # Anime25
 An analysis of the last 25 years of anime, season by season.
 
