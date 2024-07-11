@@ -14,7 +14,7 @@ I used Python (Pandas & Requests) as well as the Jikan REST API v4 for MyAnimeLi
 
 **Average Rating of Top 20 Anime per Season (1999-2024)**
 
-[insert photo]
+![Average Rating Of Top 20 Anime Per Season (99-24)](https://github.com/manga-guy/Anime25/assets/68157143/9b2d586a-a864-43ce-bf1e-daf6ae5c1fd6)
 
 **Trend Analysis**: What we observe is that, throughout the entire 25-year time period, there average rating of the top 20 anime from each season remains relatively constant. There are slight boom and bust periods that likely coincide with things that did and did not drive a lot of interest.
 
@@ -22,7 +22,7 @@ I used Python (Pandas & Requests) as well as the Jikan REST API v4 for MyAnimeLi
 
 **Average Viewer Count of Top 20 Anime per Season (1999-2024)**
 
-[insert photo]
+![Average Viewer Count of Top 20 Anime Per Season (99-24)](https://github.com/manga-guy/Anime25/assets/68157143/ab1fe5bd-14c3-4010-9c06-29972792419b)
 
 **Trend Observation**: We can observe the average viewer count growing pretty steadily over the 25-year period. This is likely due to the growth in the popularity of anime as well as the increased availability of anime on streaming services.
 
