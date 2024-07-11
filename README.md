@@ -42,7 +42,7 @@ I used Python (Pandas & Requests) as well as the Jikan REST API v4 for MyAnimeLi
 - Most Popular Genre Tag for the last 25 years:
     - **#1 Suspense: It appears people will always want something that keeps them on the edge of their seat.**
     - The two other most popular genre tags were: **Drama** and **Supernatural**
-- Top 3 Anime in Each Decade (in terms of viewers
+- Top 3 Anime in Each Decade (in terms of viewers)
     - 2000s
         1. Death Note (3,936,215 viewers)
         2. Fullmetal Alchemist: Brotherhood (3,374,611 viewers)
