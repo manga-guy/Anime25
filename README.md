@@ -78,3 +78,14 @@ I used Python (Pandas & Requests) as well as the Jikan REST API v4 for MyAnimeLi
             - Digimon Adventure: Our War Game (Movie)
             - Doraemon Movie 21
         - While I remember Boogiepop Phantom having a niche fanbase, it appears that the only anime that are still culturally relevant from this period are spinoffs of established franchises. Pucca also was released if anyone cares. I like Pucca if no one else does. Shinzo was released during this period as well. But honestly, this is just me coping.
+
+## Retro:
+
+I did this for the love of anime and to see how things changed over time. As expected, there were some extremely high points during the mid-2010s because many of those series were not only popular upon release but have become part of the modern anime "canon". Things like Your Name, A Silent Voice, Attack on Titan, Re:Zero, and others are likely only going to grow in terms of popularity, despite not being at the absolute forefront of what's happening in anime at the moment. Ultimately, it appears that these mid-2010s series may end up driving the popularity of anime among newer fans (along with even fresher titles like Jujutsu Kaisen and Spy x Family).
+
+In terms of limitations, I did not analyze the entirety of each season and restricted my analysis to the top 20 anime in each season for the last 25 years. I do not think the impact of this decision would drastically change my analysis, being that there aren't really more than 20 anime per season that have an outsized cultural impact and grow to have a massive fanbase or even become a cult classic. If I were to conduct this analysis again, however (and had access to a bit more compute lol) I may do every single anime just for funsies. This was fun though.
+
+## Contact Information
+
+Email: nate@manga-guy.net
+Personal Blog: https://mg2-0.vercel.app/
